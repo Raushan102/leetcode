@@ -34,7 +34,7 @@ public class SearchInRotatedDuplicateArray {
 
                 end--;
             }
-            else if(array[start] < array[mid] || array[start] == array[mid] && array[end] < array[mid]){
+            else if(array[start] < array[mid] || (array[start] == array[mid] && array[end] < array[mid])){
                 start=mid+1;
             }else{
                 end=mid-1;

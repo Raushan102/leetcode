@@ -2,6 +2,7 @@ package medium.array;
 
 public class searchLargestSubString {
 
+    // this question is not solve yet
 
      public static boolean has( String str,char ele){
 
@@ -43,7 +44,7 @@ public class searchLargestSubString {
 
     public static void main(String[] args) {
       String str="pwwkew";
-        System.out.println(mainSearch(str));
+        System.out.println(lengthOfLongestSubstring(str));
 
 
     }

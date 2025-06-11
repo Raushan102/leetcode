@@ -17,7 +17,7 @@ public class NextGreaterLetter {
 
           }
         // return  (start >= letters.length) ? letters[0]:letters[start];  both are same line 19 and 20 we can use any one
-        return  letters[start%letters.length];  // when start become the length of the letter then at that case it will return the first element of the array
+        return  letters[start%letters.length];  // when start will become the length of the letter array  then at that case it will return the first element of the array
 
     }
 

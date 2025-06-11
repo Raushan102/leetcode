@@ -1,5 +1,5 @@
 package medium.array;
-// search  pivot element in mountain array
+
 
 public class InfiniteArray {
 
