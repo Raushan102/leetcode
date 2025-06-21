@@ -23,7 +23,7 @@ public class Find_the_rotation_count {
             }
         }
 
-        return -1;
+        return 0;
     }
 
 

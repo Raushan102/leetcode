@@ -1,4 +1,4 @@
-package Binary_search.medium;
+package Binary_search.medium.array;
 
 public class MinLengthSubstring {
 
